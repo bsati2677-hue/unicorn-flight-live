@@ -1,0 +1,19 @@
+{
+  "name": "Unicorn Flight",
+  "short_name": "Unicorn Flight",
+  "description": "Fly your own magical unicorn as far as you can!",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#8ed3ff",
+  "theme_color": "#8ed3ff",
+  "icons": [
+    {
+      "src": "./characters/unicorn.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
